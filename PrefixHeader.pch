@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  testr
+//
+//  Created by aad bharadwaj on 7/1/24.
+//
+
+// PrefixHeader.pch
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#ifdef __cplusplus
+#include <opencv2/opencv.hpp>
+#endif
+
+#endif /* PrefixHeader_pch */
